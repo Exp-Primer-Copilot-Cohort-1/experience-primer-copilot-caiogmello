@@ -1,7 +1,6 @@
 {
     // Name this configuration
-    // test
-    "name": "My Config!!!!",
+    "name": "Codespace for Skills!",
     "customizations": {
         "vscode": {
             "extensions": [
